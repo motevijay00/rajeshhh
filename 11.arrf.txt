@@ -1,0 +1,8 @@
+@relation shopping 
+@attribute milk {0,1} 
+@attribute honey {0,1} 
+@data 
+1,1,0,0,1 
+1,1,0,1,0 
+1,0,1,0,0 
+0,1,1,0,0 
